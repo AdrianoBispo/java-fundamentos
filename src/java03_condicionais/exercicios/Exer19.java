@@ -1,5 +1,7 @@
 package java03_condicionais.exercicios;
 
+import java.util.Scanner;
+
 public class Exer19 {
 
     public static void main(String[] args){
